@@ -3,5 +3,6 @@ public class Main {
         // write your code here
         System.out.println("Hello git last day");
         //everything seems fine
+        //try to be successful
     }
 }
