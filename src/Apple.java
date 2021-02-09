@@ -7,6 +7,17 @@ public class Apple {
         //some
         System.out.println("some codes here" );
         System.out.println("good night");
+
+
+
+
+        //
+        System.out.println("have you ");
     }
+
+
+
+
+
     //Class pet, jely bean
 }
