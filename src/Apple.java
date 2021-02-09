@@ -24,7 +24,5 @@ public class Apple {
     //do it//
     //we love the sea
     //mimitate
-    public static void main(String[] args) {
-        System.out.println("I want to find merge conflict example");
-    }
+
 }
