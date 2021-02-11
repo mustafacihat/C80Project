@@ -6,5 +6,12 @@ public class Main {
         //try to be successful
         //lets finish the job
 
+//add some more code please
+
+        // write your code here
+        System.out.println("Hello git last day");
+        //everything seems fine
+        //try to be successful
+        //lets finish the job
     }
 }
